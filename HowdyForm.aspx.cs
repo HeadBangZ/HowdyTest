@@ -24,10 +24,6 @@ namespace HowdyProject
 			{
 				ChangeTextBtnAndLabel("How's it hangin", "Ace", "Primo", "Sublime", "1", point);
 			}
-			//else if (clickCounterValue.Text == "2")
-			//{
-			//	ChangeTextBtnAndLabel("Down with it?", "Superb", "Lovin' it", "The time of my life", "2", point);
-			//}
 			else
 			{
 				int currentPoint = int.Parse(pointCount.Text);
