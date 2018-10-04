@@ -1,0 +1,22 @@
+﻿body {
+	background-color: #fff;
+}
+
+.header-text {
+	font-size: 50px;
+	background: -webkit-linear-gradient(#f00, #0f0, #00f);
+	background-clip: border-box;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.btn {
+	border: 1px solid #000;
+	padding: 10px 20px;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.btn:hover {
+	opacity: 0.5;
+}
